@@ -8,7 +8,7 @@
     "test:unit:coverage": "jest --runInBand --collectCoverage"
   },
   "dependencies": {
-    "@quasar/extras": "^1.12.4",
+    "@quasar/extras": "^1.17.0",
     "quasar": "^2.4.13",
     "vue": "^3.2.25",
     "vue-template-compiler": "^2.6.14"
