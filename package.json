@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.12.4",
-    "quasar": "^2.4.13",
+    "quasar": "^2.18.5",
     "vue": "^3.2.25",
     "vue-template-compiler": "^2.6.14"
   },
